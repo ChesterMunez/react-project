@@ -1,17 +1,17 @@
 ## PROJECT Snake (CHESTER MUÑEZ & MOANA BAUTISTA)
-Running React on Repl.it
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+The OG snake game with some twist&turns
 
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+in this game you would expect
+  -awesome gaming experience 
+  -sound for diff event
+  -speed increse on increase in score each time
+  -high score display
+there are also many things  which we need to fix(make PR if you do so)
+  -180 reversing pf snake
+  -how to play in mobile
+  
+but it is ready to be played in PC
+hope you like it.
+## CC106
+## REACT.JS
